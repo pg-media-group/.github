@@ -1,16 +1,43 @@
-## Hi there 👋
+<img src="./assets/borderseparator.gif" width="100%"/>
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=white&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+pg69yt+and+Welcome+to+my+Profile!" alt="Hey, I'm pg69yt and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
 
-<!--
-**gordonpeyton83/gordonpeyton83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
+</div>
+<img src="./assets/borderseparator.gif" width="100%"/>
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-sky?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/suryapratp788)](https://twitter.com/pg69yt)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DreamPoint)](https://www.youtube.com/@pg69yt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey there! I'm Surya pg69yt, a passionate self-taught web developer and YouTuber from India. I love bringing my ideas to life through elegant projects and paying close attention to the user experience, architecture, and code quality.
+
+## ⚡ Technologies and Skills
+
+I work with a variety of technologies and have expertise in:
+
+- Front-end: HTML, CSS, JavaScript, React
+- Back-end: Python, Django
+- Database: MySQL, PostgreSQL
+- Version Control: Git, GitHub
+- UI/UX Design: Adobe XD, Figma
+- Video Editing: Filmora, Kinemaster
+
+## <strong> Languages, Frameworks, and Tools </strong>
+<img src="https://skillicons.dev/icons?i=py,java,django,react,vite,mysql,html,css,js,sass,bootstrap,git,github,githubactions,svg,eclipse,vscode,netlify,flm,vue" alt="skills logos" /> <br> 
+## <strong> Planning to Learn </strong>
+<img src="https://skillicons.dev/icons?i=angular,docker,express,flask,graphql,heroku,kotlin,kubernetes,linux,lua,pytorch,r" alt="skills planning to learn logos">
+
+## 🌟 Achievements
+
+- Created and maintained several web projects, including e-commerce websites, blogging platforms, and portfolio sites.
+- Received positive feedback and appreciation from the developer community for my help.
+
+## 🌐 Let's Connect
+
+I'm always excited to connect with fellow developers and enthusiasts. Let's collaborate, learn, and build amazing things together!
+
+- 💼 Any freelance work? Feel free to [contact me](mailto:gordonpeyton83@outlook.com) :) 
+- 💬 Ask me about anything; I am happy to help!
+
+## Thank you for visiting my profile. Happy coding!
