@@ -1,43 +1,21 @@
 <img src="../assets/logos/borderseparator.gif" width="100%"/>
 <div align="center">
   <img src="../assets/logos/animated-flame-01.gif" width="1.75%" align="left"/>
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=white&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+pg69yt+and+Welcome+to+my+Profile!" alt="Hey, I'm pg69yt and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=white&center=true&vCenter=true&width=940&lines=Hey%2C+we+are+pg+media+group+check+us+out!" alt="Hey, we are pg media group check us! animated typed out" width="90%" align="middle"/>
 
   <img src="../assets/logos/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 <img src="../assets/logos/borderseparator.gif" width="100%"/>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-sky?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/suryapratp788)](https://twitter.com/pg69yt)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DreamPoint)](https://www.youtube.com/@pg69yt)
 
-Hey there! I'm pg69yt, a passionate self-taught web developer. I love bringing my ideas to life through elegant projects and paying close attention to the user experience, architecture, and code quality.
+##  Hey there! we are looking for people to help us
 
-## ⚡ Technologies and Skills
+we want you to help us make stuff 
 
-I work with a variety of technologies and have expertise in:
+Are you passionate about coding? Join us at PG Media Group and be part of our exciting journey! We are on the lookout for talented individuals who love to code and want to make a real impact. Whether you're a seasoned developer or just starting out, we value your skills and enthusiasm. By joining our team, you'll have the chance to work on thrilling projects and be part of a dynamic group dedicated to pushing the boundaries of technology. Come and help us shape the future of coding at PG Media Group! 
 
-- Front-end: HTML, CSS, JavaScript, React
-- Back-end: Python, Django
-- Database: MySQL, PostgreSQL
-- Version Control: Git, GitHub
-- UI/UX Design: Adobe XD, Figma
-- Video Editing: Filmora, Kinemaster
+"disclaimer we do not pay you but we do have fun before after and during the coding. there will be some benefits to your patronage."
 
-## <strong> Languages, Frameworks, and Tools </strong>
-<img src="https://skillicons.dev/icons?i=py,java,django,react,vite,mysql,html,css,js,sass,bootstrap,git,github,githubactions,svg,eclipse,vscode,netlify,flm,vue" alt="skills logos" /> <br> 
-## <strong> Planning to Learn </strong>
-<img src="https://skillicons.dev/icons?i=angular,docker,express,flask,graphql,heroku,kotlin,kubernetes,linux,lua,pytorch,r" alt="skills planning to learn logos">
+## fun stuff we plan on doing
 
-## 🌟 Achievements
-
-- Created and maintained several web projects, including e-commerce websites, blogging platforms, and portfolio sites.
-- Received positive feedback and appreciation from the developer community for my help.
-
-## 🌐 Let's Connect
-
-I'm always excited to connect with fellow developers and enthusiasts. Let's collaborate, learn, and build amazing things together!
-
-- 💼 Any freelance work? Feel free to [contact me](mailto:gordonpeyton83@outlook.com) :) 
-- 💬 Ask me about anything; I am happy to help!
-
-## Thank you for visiting my profile. Happy coding!
+I plan on hosting hackathons, game nights, and more once we get a decently big team.
