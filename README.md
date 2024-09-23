@@ -10,7 +10,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-sky?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/suryapratp788)](https://twitter.com/pg69yt)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DreamPoint)](https://www.youtube.com/@pg69yt)
 
-Hey there! I'm Surya pg69yt, a passionate self-taught web developer and YouTuber from India. I love bringing my ideas to life through elegant projects and paying close attention to the user experience, architecture, and code quality.
+Hey there! I'm pg69yt, a passionate self-taught web developer. I love bringing my ideas to life through elegant projects and paying close attention to the user experience, architecture, and code quality.
 
 ## ⚡ Technologies and Skills
 
